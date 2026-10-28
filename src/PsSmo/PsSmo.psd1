@@ -12,7 +12,7 @@
 RootModule = 'PsSmo.dll'
 
 # Version number of this module.
-ModuleVersion = '2.0.0'
+ModuleVersion = '1.4.1'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
